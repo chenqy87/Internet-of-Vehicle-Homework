@@ -1,4 +1,8 @@
 # Internet-of-Vehicle-Homework
+中山大学车联网作业代码
 
 traditional_lane_detection_and_lane_departure_warning文件夹存放着传统车道线识别方法和车道线偏离预警模型的代码，可通过demo.py程序运行
 
+deeblaps文件夹存放着基于车道面域识别方法的代码，可在命令行中运行evaluation.py进行运行测试
+
+PINet-master文件夹存放着基于车道线关键点识别方法的代码，可直接在test.py中运行
