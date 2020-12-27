@@ -1,1 +1,4 @@
 # Internet-of-Vehicle-Homework
+
+traditional_lane_detection_and_lane_departure_warning文件夹存放着传统车道线识别方法和车道线偏离预警模型的代码，可通过demo.py程序运行
+
